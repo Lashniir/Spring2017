@@ -1,0 +1,62 @@
+Armadillo : 14
+Bear : 14
+Butterfly : 5
+Cat : 8
+Centipede : 14
+Chicken : 4
+Coyote : 3
+Cricket : 2
+Deer : 15
+Dinosaur : 13
+Dog : 16
+Dolphin : 5
+Dragonfly : 7
+Eagle : 15
+Elephant : 9
+Ferret : 4
+Fruit Fly : 14
+Giraffe : 11
+Gorilla : 1
+Grasshopper : 3
+Hawk : 1
+Honey Bee : 13
+House Fly : 7
+Iguana : 2
+Koala Bear : 2
+Lion : 9
+Mastodon : 18
+Millipede : 6
+Mollusk : 5
+Monkey : 18
+Moth : 2
+Mouse : 3
+Muskrat : 3
+Octopus : 3
+Opossum : 17
+Orangutan : 6
+Panda Bear : 4
+Pig : 4
+Porpoise : 3
+Rabbit : 2
+Rat : 3
+Sea Lion : 3
+Sea Turtle : 3
+Sea Urchin : 3
+Seal : 8
+Sheep : 6
+Shrew : 11
+Sloth : 2
+Snake : 4
+Sparrow : 4
+Spider : 3
+Sponge : 3
+Squid : 3
+Tiger : 12
+Tortoise : 2
+Wasp : 15
+Whale : 3
+Wolf : 14
+Woodpecker : 16
+Worm : 19
+Wren : 6
+Zebra : 16

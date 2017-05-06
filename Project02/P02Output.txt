@@ -1,0 +1,100 @@
+Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+C:\Users\lashn>cd Desktop
+
+C:\Users\lashn\Desktop>javac P02Driver.java
+Note: .\CM307ArrayList.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+C:\Users\lashn\Desktop>java P02Driver
+Creating the list...
+Size of list is 0
+isEmpty() returns true
+Adding strings to list...
+----------------
+List has 10 elements:
+[Leela,Hermes,Zoidberg,Bender,Fry,Scratchy,Itchy,Bart,Lisa,Homer]
+----------------
+Size of list is 10
+isEmpty() returns false
+Getting first element...
+Got Leela
+Getting element at position 5...
+Got Scratchy
+Getting last element...
+Got Homer
+Getting element at position -1...
+Got null
+Getting element at position 10...
+Got null
+Removing element at position 0...
+Removed Leela
+----------------
+List has 9 elements:
+[Hermes,Zoidberg,Bender,Fry,Scratchy,Itchy,Bart,Lisa,Homer]
+----------------
+Removing last element...
+Removed Homer
+----------------
+List has 8 elements:
+[Hermes,Zoidberg,Bender,Fry,Scratchy,Itchy,Bart,Lisa]
+----------------
+Removing element at position 5...
+Removed Itchy
+----------------
+List has 7 elements:
+[Hermes,Zoidberg,Bender,Fry,Scratchy,Bart,Lisa]
+----------------
+Removing element at -1...
+Removed null
+----------------
+List has 7 elements:
+[Hermes,Zoidberg,Bender,Fry,Scratchy,Bart,Lisa]
+----------------
+Removing element at 7...
+Removed null
+----------------
+List has 7 elements:
+[Hermes,Zoidberg,Bender,Fry,Scratchy,Bart,Lisa]
+----------------
+inserting "Kyle" at position 0...success
+----------------
+List has 8 elements:
+[Kyle,Hermes,Zoidberg,Bender,Fry,Scratchy,Bart,Lisa]
+----------------
+inserting "Stan" at position 3...success
+----------------
+List has 9 elements:
+[Kyle,Hermes,Zoidberg,Stan,Bender,Fry,Scratchy,Bart,Lisa]
+----------------
+inserting "Cartman" at position 9...success
+----------------
+List has 10 elements:
+[Kyle,Hermes,Zoidberg,Stan,Bender,Fry,Scratchy,Bart,Lisa,Cartman]
+----------------
+inserting "Kenny" at position -1...failed
+----------------
+List has 10 elements:
+[Kyle,Hermes,Zoidberg,Stan,Bender,Fry,Scratchy,Bart,Lisa,Cartman]
+----------------
+inserting "Chef" at position 11...failed
+----------------
+List has 10 elements:
+[Kyle,Hermes,Zoidberg,Stan,Bender,Fry,Scratchy,Bart,Lisa,Cartman]
+----------------
+Removing element at position 5...
+Removed Fry
+----------------
+List has 9 elements:
+[Kyle,Hermes,Zoidberg,Stan,Bender,Scratchy,Bart,Lisa,Cartman]
+----------------
+inserting "Snowball" at position 3...success
+----------------
+List has 10 elements:
+[Kyle,Hermes,Zoidberg,Snowball,Stan,Bender,Scratchy,Bart,Lisa,Cartman]
+----------------
+Getting element at position 7...
+Got Bart
+
+C:\Users\lashn\Desktop>
